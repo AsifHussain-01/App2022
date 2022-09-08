@@ -22,6 +22,7 @@
 .firsthead{
 height: 100%;
 width: 100%;
+max-width: 600px;
 }
 .name{
     font-size: 48px;
