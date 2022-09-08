@@ -37,7 +37,8 @@
     align-items: center;
 }
 .searchbar{
-width: 400px;
+width: 100%;
+max-width: 400px;
 height: 60px;
 border-top: none;
 border-left: none;
@@ -70,7 +71,8 @@ cursor: pointer;
     color: white;
     font-size: 24px;
     font-weight: 700;
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
     height: 40px;
     background: linear-gradient(to top left, #00ccff 37%, #0066ff 94%);
     border-radius: 56px;
